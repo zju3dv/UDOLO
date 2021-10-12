@@ -10,8 +10,8 @@
 
 <br/>
 
-## ETA
-The code will released within this week.
+## Code Release ETA
+The code will be released within this week.
 
 ## TODO List
 - [ ] Code for training and test.
