@@ -87,7 +87,7 @@ Thanks to Charles R. Qi for opening source of his excellent works [VoteNet](http
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```bibtex
-@article{sun2021loftr,
+@article{sun2021udolo,
   title={{You Don't Only Look Once}: Constructing Spatial-Temporal Memory for Integrated 3D Object Detection and Tracking},
   author={Sun, Jiaming and Xie, Yiming and Zhang, Siyu and Chen, Linghao and Zhang, Guofeng and Bao, Hujun and Zhou, Xiaowei},
   journal={{ICCV}},
