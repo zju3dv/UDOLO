@@ -1,0 +1,12 @@
+tensorflow==1.14.0
+scipy
+opencv-python
+transforms3d
+plyfile
+trimesh==2.35.39
+matplotlib
+# kalman
+numba
+scikit-learn==0.22.2
+filterpy
+tqdm
